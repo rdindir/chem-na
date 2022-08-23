@@ -11,3 +11,11 @@ processing the whole document, and not its own region (delimited by cstart/cend)
 To make the chem pre-processor less aggressive in processing the document, I created a simple
 awk script that will only make chem pre-processor behave non-aggressively, processing its
 own region and leaving the rest of the document unprocessed.
+
+# Examples
+
+You can use the script as given below.
+
+  cat \<document> | chem-na
+
+  chem-na \<document>
