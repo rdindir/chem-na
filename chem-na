@@ -1,0 +1,5 @@
+#!/bin/sh
+
+swd=$(dirname $0)
+
+awk -f ${swd}/_chem-na/chem-na.awk $*
