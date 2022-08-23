@@ -14,7 +14,7 @@ own region and leaving the rest of the document unprocessed.
 
 A bug report has been filed with groff (https://savannah.gnu.org/bugs/index.php?62909).
 Meanwhile if someone is using chem, can use this script, until the groff chem package
-is fixed and awailable on their OS.
+is fixed and is available on their OS.
 
 # Examples
 
